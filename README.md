@@ -5,9 +5,9 @@
 ## I'm a freelance developer, with passion for coding!
 - ⚡ Fun fact: My efficiency increases greatly while listening to music.
 
-[<code>
+<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/doodle/48/000000/discord-logo.png" />
-theplay3r#4553 </code>](#) 
+theplay3r#4553 </code>
 
 ---
 
